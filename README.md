@@ -1,3 +1,4 @@
+#DOCUMENTATION OF SYSTEM
 # Student Course Registration System (Backend)
 
 ## System Overview (Task 1)
