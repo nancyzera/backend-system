@@ -1,5 +1,5 @@
-#DOCUMENTATION OF SYSTEM
-# Student Course Registration System (Backend)
+
+# DOCUMENTATION OF System (Backend)
 
 ## System Overview (Task 1)
 A Node.js backend using Express and MySQL/MariaDB to handle student registrations and course enrollments for a TVET institution.
